@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "AFOSR Patents",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://gist.githubusercontent.com/nshale2/13306811222070329926661ca7da5617/raw/572194c4e73703052bc4091cb60ebb13e8b97141/PatentViz_tensor.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/nshale2/0c5486de50dc6e5da74bd51b0c1ca54a/raw/8f6482b64ce89fbdbaa14f6ac671cdd22cc54003/PatentViz_metadata2.tsv"
+    }
+  ]
+}
