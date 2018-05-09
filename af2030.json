@@ -1,13 +1,13 @@
 {
   "embeddings": [
     {
-      "tensorName": "Airforce 2030 Study",
+      "tensorName": "Air Force 2030 Study",
       "tensorShape": [
-        1000,
-        50
+        42,
+        75
       ],
-      "tensorPath": "https://gist.githubusercontent.com/nshale2/e853093b3288b695371db5dbec29780a/raw/f4f683ed918087525892fb74510ee1453add71c8/af2030tensors.tsv",
-      "metadataPath": "https://gist.githubusercontent.com/nshale2/e853093b3288b695371db5dbec29780a/raw/f4f683ed918087525892fb74510ee1453add71c8/af2030metadata.tsv"
+      "tensorPath": "https://gist.githubusercontent.com/nshale2/f845cee28bedeeb345abb9180b9d0df4/raw/9c43d607432378db54ea7768cfa3a4517691de03/af2030tensors.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/nshale2/f845cee28bedeeb345abb9180b9d0df4/raw/9c43d607432378db54ea7768cfa3a4517691de03/af2030metadata.tsv"
     }
   ]
 }
