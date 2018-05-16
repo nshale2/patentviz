@@ -3,7 +3,7 @@
     {
       "tensorName": "Air Force 2030 Study",
       "tensorShape": [
-        42,
+        14,
         75
       ],
       "tensorPath": "https://gist.githubusercontent.com/nshale2/9fde59626406f450796b1bef6d103996/raw/9bf545a9cd3fa2564df5de60cd4cc647e2a0dc58/af2030tensors.tsv",
